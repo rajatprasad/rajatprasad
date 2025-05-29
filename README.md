@@ -7,7 +7,7 @@
 - 🌱 I’m always learning something new.
 - ⚡ Fun fact: I used to learn hacking when I was in school.
 - 👌🏼 Interests: Problem Solving  , Tech, Music, Workout, Science, and random fun facts.
-- 🔍 Looking for: Web Development and SDE roles.
+%- 🔍 Looking for: Web Development and SDE roles.%
 - 👨🏼‍💻 Problem solving profiles: <a href = "https://leetcode.com/rajatprasad/">Leetcode</a>
 
 ### Connect with me:
