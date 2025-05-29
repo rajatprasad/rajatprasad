@@ -1,11 +1,10 @@
 
 
-# Hi 👋, I'm Rajat Prasad
+# Hi 👋, I'm Rajat.
 
 ## I’m a passionate Frontend Web Developer.
 
 - 🌱 I’m always learning something new.
-- ⚡ Fun fact: I used to learn hacking when I was in school.
 - 👌🏼 Interests: Problem Solving  , Tech, Music, Workout, Science, and random fun facts.
 - 👨🏼‍💻 Problem solving profiles: <a href = "https://leetcode.com/rajatprasad/">Leetcode</a>
 
